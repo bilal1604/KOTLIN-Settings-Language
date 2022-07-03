@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Setting Languages</string>
+        <string name="start">START !</string>
+        <string name="info">Press Button To Start</string>
+        <string name="admob">ca-app-pub-8604728728100888/8748349796</string>
+</resources>
